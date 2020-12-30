@@ -1,0 +1,16 @@
+{
+    "gallery_file": "./data/gallery.eft",
+    "disturb_path": "./data/disturb/",
+    "query_file": "./data/query.eft",
+    "M": 4,
+    "K": 256,
+    "ITER": 10,
+    "ILS_ITER": 8,
+    "ICM_ITER": 4,
+    "RAND_ORD": true,
+    "N_PERT": 4,
+    "ENCODE_ITER": 16,
+    "ILS_BATCH": 10000,
+    "SGD_BATCH": 16,
+    "LSQR": true
+}
